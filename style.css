@@ -1,0 +1,102 @@
+.img-1 {
+    top: 18%;
+    left: 2%;
+}
+
+.img-2 {
+    top: 28%;
+    left: 7%;
+}
+
+.img-3 {
+    top: 70%;
+    left: 15%;
+}
+
+.img-4 {
+    top: 80%;
+    left: 18%;
+}
+
+.img-5 {
+    top: 25%;
+    left: 22%;
+}
+
+.img-6{
+    top: 75%;
+    left: 60%;
+}
+
+.img-7{
+    top: 28%;
+    left: 52%;
+}
+
+.img-8{
+    top: 55%;
+    left: 90%;
+}
+
+.img-9 {
+    top: -8%;
+    left: 93%;
+}
+
+.sec-2 {
+    background-image: url(Images/Vid\ Gray\ BG.png);
+}
+
+.sec3bg {
+    background-image: url(Images/Slanted\ Green\ BG.png);
+    height: 1000px;
+    margin-top: -250px;
+}
+
+.card-img{
+    width: 40rem !important;
+}
+
+.card2{
+    margin-top: 15rem;
+}
+
+.card1{
+    margin-top: 12rem;
+}
+
+.card3{
+    margin-top: 20rem;
+}
+
+@media (max-width:767px) {
+    .sec3bg {
+        background-image: url(Images/Slanted\ Green\ BG.png);
+        height: 1000px;
+        margin-top: -20px;
+    }
+
+    .card2{
+        margin-top: -6rem;
+        margin-left: auto;
+    }
+    
+    .card1{
+        margin-top: -4rem;
+    }
+    
+    .card3{
+        margin-top: -1rem;
+    }
+
+    .cards{
+        margin-top: 5rem;
+    }
+
+}
+
+@media (max-width:415px) {
+    .nav-logo{
+        width: 10rem !important;
+    }
+}
